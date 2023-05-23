@@ -14,9 +14,9 @@ max değerine gelene kadar 7 ile bölümünden 0 kalan yani kalansız bölünen 
 
 örnek;
 
-int index = 1; // 1 2 3 4 5 6 7 8 9....
+
 	int max;
-	
+	int index = 1; // 1 2 3 4 5 6 7 8 9....
 	cout << "Max değeri gir";
 	cin >> max;
 	
