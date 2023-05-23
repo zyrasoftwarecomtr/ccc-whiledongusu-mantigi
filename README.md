@@ -30,7 +30,7 @@ max değerine gelene kadar 7 ile bölümünden 0 kalan yani kalansız bölünen 
 	}
 
 
-burada index 1 den başlıyot
+burada index 1 den başlıyor
 kullanıcıdan max değeri yani indexin alabileceğim max değer.
 
 
