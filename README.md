@@ -1,4 +1,4 @@
-# ccc-whiledongusu-mantigi
+# cpp-whiledongusu-mantigi
 c++ while döngüsü mantıgı  ( basit )
 
 => zyrasoftware.com.tr
