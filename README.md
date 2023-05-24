@@ -6,6 +6,8 @@ c++ while döngüsü mantıgı  ( basit )
 
 
 => https://www.instagram.com/zyrasoftware/
+
+
 # DİKKAT
 
 index 1 den başlıyor,
@@ -31,12 +33,12 @@ max değerine gelene kadar 7 ile bölümünden 0 kalan yani kalansız bölünen 
 
 
 burada index 1 den başlıyor
-kullanıcıdan max değeri yani indexin alabileceğim max değer.
+kullanıcıdan max değeri yani indexin alabileceği max değerin girilmesi isteniyor.
 
 
 while döngüsüne bir koşul veriliyor;
      index max değerinden küçük eşitse;
-        index ile 7 nin bölümünden 0 kalan yani kalansız b ölünebilen sayıları Ekrana yazdır.
+        index ile 7 nin bölümünden 0 kalan yani kalansız bölünebilen sayıları Ekrana yazdır.
 
 
 kullanıcı max değerine; 14 girdi diyelim.
