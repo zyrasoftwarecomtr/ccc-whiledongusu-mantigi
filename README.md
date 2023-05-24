@@ -17,6 +17,7 @@ max değerine gelene kadar 7 ile bölümünden 0 kalan yani kalansız bölünen 
 örnek;
 
 
+	```css
 	int max;
 	int index = 1; // 1 2 3 4 5 6 7 8 9....
 	cout << "Max değeri gir";
@@ -30,7 +31,7 @@ max değerine gelene kadar 7 ile bölümünden 0 kalan yani kalansız bölünen 
 
 		index++;
 	}
-
+```
 
 burada index 1 den başlıyor
 kullanıcıdan max değeri yani indexin alabileceği max değerin girilmesi isteniyor.
